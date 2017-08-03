@@ -1,0 +1,16 @@
+.contain{
+	width: 250px;
+	height: 250px;
+	opacity: 1;
+}
+img{
+	width: 100%;
+}
+.test{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 100px;
+	top: 300px;
+	background: #ff0;
+}
